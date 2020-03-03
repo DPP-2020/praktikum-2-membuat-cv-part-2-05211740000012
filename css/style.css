@@ -42,3 +42,7 @@
 .jumbotron .display-4 span {
     font-weight: 500;
 }
+
+section {
+    min-height: 420px;
+}
